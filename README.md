@@ -25,6 +25,3 @@ The rainbow is generated in real-time with the colour-pattern.
 The idea is from the original Nyan Cat:
 
 ![nyan-cat](nyan-cat.gif)
-
-
-## 
